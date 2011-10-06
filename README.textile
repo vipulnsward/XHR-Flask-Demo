@@ -5,15 +5,16 @@ Installation
 
 [sudo] pip install Flask
 
-==========
+===========
 
 To run:
 
-1. sudo python app.py
+# sudo python app.py
 
-=========
+===========
 
-Fire up your browser and got "localhost:5000/home"
+Fire up your browser and goto  "localhost:5000/home"
+
 
 
 
